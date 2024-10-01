@@ -9,7 +9,7 @@ header {
     display: flex; /* Use flex for layout */
     flex-direction: column; /* Stack elements vertically */
     align-items: center; /* Center children horizontally */
-    width: 100%; /* Full width */
+    width: 100%; 
 }
 
 h1 {
@@ -37,8 +37,27 @@ nav a {
     color: white; /* Set text color */
 }
 
-.left { 
-        width:50%;
+container.left { 
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    max-width:75%;
+  
+}
+
+
+.sickpics {
+ display: flex;
+ flex-direction: row;
 
 
 }
+
+
+container.right {
+   display: flex;
+   justify-content: flex-start;
+   flex-direction: column;
+}
+
+

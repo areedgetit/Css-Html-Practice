@@ -19,12 +19,14 @@
         </nav>
     </header>
     <h2>Our Work</h2>
+    <div class="sickpics">
     <container class="left">
     <img src="/home/raspi69/Documents/Automation Website/cobot-welder-welding.jpg" alt="robot welding">
 </container>
     <container class="right">
     <img src="/home/raspi69/Documents/Automation Website/robo-gluing.png" alt="robot gluing">
     </container>
+</div>
     <main>
         <p>Hello World@@</p>
     </main>
