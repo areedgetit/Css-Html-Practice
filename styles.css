@@ -36,3 +36,9 @@ nav a {
     text-decoration: none; /* Remove underline from links */
     color: white; /* Set text color */
 }
+
+.left { 
+        width:50%;
+
+
+}
